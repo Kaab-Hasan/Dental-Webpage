@@ -1,0 +1,29 @@
+.heading{
+    text-align: center;
+    color: grey;
+}
+.nav{
+text-align: center;
+
+}
+.right{
+    text-align: right;
+    margin-bottom: 1%;
+}
+.main{
+   background-color: rgb(204, 30, 204);
+}
+.kids{
+    margin-left: 1%;
+}
+.content {
+   margin: 1%;
+    text-align: justify;
+}
+.go{
+    margin: 1%;
+}
+.bold{
+    margin-left: 100px;
+    margin-right: 100px;
+}
